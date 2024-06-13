@@ -1,0 +1,17 @@
+{
+  "name": "starter-project-11ty",
+  "version": "1.0.0",
+  "description": "Creación de un template de eleventy con el curso de Jonmircha",
+  "main": ".eleventy.js",
+  "scripts": {
+    "install": "npm install @11ty/eleventy -D",
+    "start":"npx @11ty/eleventy --serve --port=7777",
+    "clean":"rm -rf docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
