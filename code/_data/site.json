@@ -1,6 +1,13 @@
 {
     "message":"Hola Mundo Eleventy",
-    "linksDock":[
-        
+    "linksDoc":[
+        {
+            "text":"Documentación de <i>11ty</i>",
+            "url":"https://www.11ty.dev"
+        },
+        {
+            "text":"Mascotas de <i>11ty</i>",
+            "url":"https://www.11ty.dev/mascot"
+        }
     ]
 }

@@ -3,7 +3,7 @@ layout: layout-post.njk
 title: Reseña del libro 2 
 description: Descripción de la reseñla del libro 2
 tags: ["blog", "libros"]
-date: "2024-02-28"
+date: "2024-01-28"
 --- 
 
 # {{ title }} 
